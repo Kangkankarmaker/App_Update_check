@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62526028437",
+    "firebase_url": "https://app-update-check.firebaseio.com",
+    "project_id": "app-update-check",
+    "storage_bucket": "app-update-check.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62526028437:android:33a7d2e7e9293eff60799c",
+        "android_client_info": {
+          "package_name": "kangkan.developer.app_update_check"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62526028437-23cu16brgp7p04ogl9uhu6kf2v3vg33a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kangkan.developer.app_update_check",
+            "certificate_hash": "6499f65d36a139e71a83f9bdaee9ac9c16634382"
+          }
+        },
+        {
+          "client_id": "62526028437-0fp48daf7gmqogjpekc4c25ei5v8h286.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-xKyJ9AgRF6XqRLhPTGw3Luov57CjDjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62526028437-0fp48daf7gmqogjpekc4c25ei5v8h286.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
